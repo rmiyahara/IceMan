@@ -1,0 +1,19 @@
+﻿  StudentWorld.cpp
+c:\cs32\iceman\iceman\studentworld.cpp(33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\cs32\iceman\iceman\studentworld.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\iceman\iceman\studentworld.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\iceman\iceman\studentworld.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\iceman\iceman\studentworld.cpp(125): warning C4018: '>': signed/unsigned mismatch
+c:\cs32\iceman\iceman\studentworld.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\iceman\iceman\studentworld.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\iceman\iceman\studentworld.cpp(229): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\iceman\iceman\studentworld.cpp(267): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\iceman\iceman\studentworld.cpp(280): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\iceman\iceman\studentworld.cpp(488): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\iceman\iceman\studentworld.cpp(534): warning C4018: '<': signed/unsigned mismatch
+c:\cs32\iceman\iceman\studentworld.cpp(546): warning C4018: '<': signed/unsigned mismatch
+  Actor.cpp
+c:\cs32\iceman\iceman\actor.cpp(558): warning C4018: '<=': signed/unsigned mismatch
+  Generating Code...
+  IceMan.vcxproj -> C:\CS32\IceMan\Debug\IceMan.exe
+  IceMan.vcxproj -> C:\CS32\IceMan\Debug\IceMan.pdb (Full PDB)
